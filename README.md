@@ -1,3 +1,5 @@
-First Commit
+Final commit
 
-Ini baru isi dari write up yang saya kerjakan, lebih lengkap dari write akan di upload mendatang
+Write Up
+Capture The Flag Cyber Hunt 2024
+Heetygn team
